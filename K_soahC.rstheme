@@ -94,7 +94,7 @@
   color:#58C554;
 }
 .ace_comment {
-  color:#DCE0AA;
+  color:#B3B879;
   font-style:italic;
   padding-bottom: 0px;
 }
