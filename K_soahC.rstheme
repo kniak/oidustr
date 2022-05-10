@@ -759,3 +759,8 @@
 .ace_print-margin {
   width: 0px;
 }
+
+.ace_paren_color_0 {
+  color: #ffffff;
+}
+!important
